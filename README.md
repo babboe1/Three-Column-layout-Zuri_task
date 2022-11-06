@@ -30,7 +30,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/zyryle/FM-3-column-layout/tree/main]
 - Live Site URL: [https://zyryle.github.io/FM-3-column-layout/]
 
 ## My process
