@@ -23,14 +23,6 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
-
-![](./design/Desktop.png)
-![](./design/Mobile.png)
-
-### Links
-
-- Live Site URL: [https://zyryle.github.io/FM-3-column-layout/]
 
 ## My process
 
@@ -47,13 +39,9 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Desktop-first workflow
+- mobile-first workflow
 
 ### Continued development
 
 I am currenlty learning JavaScript right now, specially DOM Manipulation, after I get comfortable with JavaScript I will move to React, Vue or Svelte. On top of that I am also enhancing my CSS skills by learing advance CSS, animation and more.
 
-## Author
-
-- Website - [Lumer Montepio](https://github.com/zyryle)
-- Frontend Mentor - [@Zyryle](https://www.frontendmentor.io/zyryle)
